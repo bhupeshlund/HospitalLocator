@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EE0F172A" /> <!-- Dark slate translucent background -->
+    <corners android:topLeftRadius="28dp" android:topRightRadius="28dp" />
+    <stroke android:width="1.5dp" android:color="#384256" /> <!-- Glowing border stroke -->
+</shape>
